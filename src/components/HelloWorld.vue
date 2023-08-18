@@ -23,6 +23,8 @@ defineProps({
   <!--wednesday-->
   <!--thursday-->
   <!--thursday-->
+  <!--friday-->
+  <!--friday-->
 </template>
 
 <style scoped></style>
