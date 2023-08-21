@@ -1,4 +1,4 @@
-<script setup>
+to<script setup>
 defineProps({
   msg: {
     type: String,
@@ -25,6 +25,7 @@ defineProps({
   <!--thursday-->
   <!--friday-->
   <!--friday-->
+  <!--monday-->
 </template>
 
 <style scoped></style>
