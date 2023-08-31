@@ -24,7 +24,7 @@ defineProps({
   <!--thursday-->
   <!--thursday-->
   <!--friday-->
-  <!--friday-->
+  <!--friday Thursday-->
   <!--monday-->
 </template>
 
